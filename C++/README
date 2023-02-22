@@ -1,11 +1,9 @@
 Projekt C++
 
-Využitá knihovna SFML 
+Využitá knihovna SFML - https://www.sfml-dev.org/download/sfml/2.5.1/
 
 
-
-
-
+Hra Sejmi želvu
 Jedná se o hru, jejíž cílem je udeřit co nejvíce želv.
 Časový limit hry je 40s, uživatel si ho muže v kodu jakkoliv upravit. To stejné platí i pro 3 časové fáze, kdy se výskyt želv zrychluje.
 
