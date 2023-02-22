@@ -1,2 +1,20 @@
-Projekt Python - Piškvorky
+Projekt Python 
+knihovna pygame - https://www.pygame.org/download.shtml
+
+
+
+Hra piškvorky
+Hráč hraje proti počítači na herní ploše 3x3.
+3 spojené znaky = Výhra
+
+
+Ovládáni:
+
+menu:
+klávesnice X - výběr zanku X
+klávesnice O - výběr znaku O
+
+myš - umístění znaku do políčka 
+
+klávesnice z - opakování hry (odveta)
 
